@@ -1,6 +1,6 @@
 Link to my project:
 
-cryptocurrency-search-engine.netlify.app
+https://cryptocurrency-search-engine.netlify.app
 
 # Getting Started with Create React App
 
