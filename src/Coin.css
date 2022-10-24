@@ -23,6 +23,7 @@
 .coin {
   padding-right: 24px;
   min-width: 300px;
+  
 }
 
 .coin h1 {
@@ -45,12 +46,14 @@
   text-align: right;
   justify-content: space-between;
   width: 100%;
+  
 }
 
 .coin-price {
-  width: 110px;
+  width: 8rem;
+  text-align: start;
 }
-
+/* 
 .coin-volume {
   width: 155px;
 }
@@ -69,4 +72,4 @@
 
 .green {
   color: #00ff00;
-}/*# sourceMappingURL=Coin.css.map */
+} */

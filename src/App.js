@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
-import "./scss/App.css"
+import "./App.css"
 import Coin from "./Coin"
 
 function App() {
@@ -30,14 +30,14 @@ function App() {
 	return (
 		<div className='coin-app'>
 			<div className='coin-search'>
-				<h1 className='coin-title'>Cryptocurrency Website</h1>
-				<h2 className='coin-text'>search coin</h2>
+				<h1>Cryptocurrency Website</h1>
+				<h2>Search Coin</h2>
 				<form>
 					<input
 						className='coin-input'
 						type='text'
 						onChange={handleChange}
-						placeholder='wpisz krypto'
+						placeholder='enter cryptocurrency'
 					/>
 				</form>
 			</div>
